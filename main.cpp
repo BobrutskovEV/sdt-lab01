@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+/* This program is just an example */
 int main()
 {
     int a, b;
